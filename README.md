@@ -7,5 +7,5 @@
 🤔 I'm looking for help with ideas for projects <br>
 📫 How to reach me: <br>
   <a href="mailto:kubawojtas34@gmail.com?subject=[GitHub]">E-mail</a> <br>
-  <a href="www.linkedin.com/in/jakubwojtas">Linkedin</a> <br>
+  <a href="https://www.linkedin.com/in/jakubwojtas">Linkedin</a> <br>
 </p>
