@@ -1,5 +1,5 @@
 <h1 align="center"> Hi :wave: I'm Kuba </h1>
-<h3 align="center"> Fell free traversing my github </h3>
+<h3 align="center"> Feel free traversing my github </h3>
 
 
 <p align="center">
